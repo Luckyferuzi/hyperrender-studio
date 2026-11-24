@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "hyperrender_studio"
+version = "2.0.0"
+name = "HyperRender Studio Enterprise"
+tagline = "Multi-Pass Ray Reconstruction, CAS Sharpener, 60-FPS Viewport Turbo & Batch Queue"
+maintainer = "Tumex Studio <tumexstudio@gmail.com>"
+type = "add-on"
+website = "https://tumexstudio.gumroad.com"
+tags = ["Render", "Compositing", "Pipeline", "Optimization"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
